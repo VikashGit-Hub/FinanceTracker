@@ -14,7 +14,7 @@ cd ../client
 http://localhost:3000
 
 Backend Setup (server/)
-cd server
+cd ../server
 Backend will run on http://localhost:5000
 
 
